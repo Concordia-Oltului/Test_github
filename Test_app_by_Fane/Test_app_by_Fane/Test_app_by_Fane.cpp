@@ -3,9 +3,11 @@
 
 #include <iostream>
 #include "Nume_sugestiv.h"
+#include "Test.h"
 
 int main()
 {
+	get_test();
 	//MyClass obj_gol();
 	MyClass obj(5,6);
 	//std::cout << obj_gol.getX() << " " << obj_gol.getY() << std::endl;
