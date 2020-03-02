@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Nume_sugestiv.cpp" />
     <ClCompile Include="Test_app_by_Fane.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Nume_sugestiv.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

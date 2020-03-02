@@ -2,10 +2,14 @@
 //
 
 #include <iostream>
+#include "Nume_sugestiv.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	//MyClass obj_gol();
+	MyClass obj(5,6);
+	//std::cout << obj_gol.getX() << " " << obj_gol.getY() << std::endl;
+	std::cout << obj.getX() << " " << obj.getY() << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

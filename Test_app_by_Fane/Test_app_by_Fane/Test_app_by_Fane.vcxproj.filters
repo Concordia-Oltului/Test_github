@@ -18,5 +18,13 @@
     <ClCompile Include="Test_app_by_Fane.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Nume_sugestiv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Nume_sugestiv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
